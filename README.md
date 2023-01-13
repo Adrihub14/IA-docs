@@ -10,6 +10,10 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 * Débil: Aquellos sistemas que solo pueden cumplir con un número muy limitado de tareas.
 * Fuerte: Aquellos sistemas que se pueden aplicar a una gran variedad de problemas y dominios diferentes.
 
+## IA multimodal 
+
+Se caracterizan por procesar múltiples conjuntos de distintos tipos de datos utilizando métodos basados en el aprendizaje para proporcionar información más precisa, veraz e inteligente.
+
 ## Campos de aplicación de la Inteligencia Artificial
 
 * Robótica
@@ -22,8 +26,8 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 
 ## Paradigmas de aprendizaje
 
-* Aprendizaje supervisado
-* Aprendizaje no supervisado
+* Aprendizaje supervisado: Tipo de aprendizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento.El algoritmo aprenderá a clasificar nuevos datos. Por ejemplo: detectar spam.
+* Aprendizaje no supervisado: Tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados. el algoritmo aprenderá a encontrar patrones en los datos. Por ejemplo: Encontrar clases de usuarios.
 * Aprendizaje reforzado
 
 ## Técnicas de Aprendizaje Automático
