@@ -1,1 +1,1 @@
-# Las imágenes van aqui
+# Las imágenes van aquí
