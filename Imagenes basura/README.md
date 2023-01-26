@@ -1,2 +1,2 @@
 # Las imágenes van aquí
-!(/home/adrgar/Baixades.jpeg)
+! (/home/adrgar/Baixades.jpeg)
