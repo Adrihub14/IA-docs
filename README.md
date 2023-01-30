@@ -120,3 +120,12 @@ Son una forma de entender un texto haciendo preguntas sobre el mismo. Por ejempl
 * IA conversacional
 
 Es una forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano. Por ejemplo, podría usar un algoritmo de aprendizaje automático para crear un chatbot que pueda tener una conversación con un humano sobre el clima.
+# Algunos términos importantes relacionados con chatbot
+- Reconocimiento de intenciones
+
+El reconocimiento de intenciones es un tipo de inteligencia artificial que permite a los chatbots comprender la intención del usuario. El reconocimiento de intención se utiliza para asignar la entrada del usuario a la respuesta adecuada.
+- Reconocimiento de entidades
+
+El reconocimiento de entidades es un tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario. Esta información podría ser palabras, frases, números u otros puntos de datos. El reconocimiento de entidades ayuda a los chatbots a comprender lo que quiere el usuario al identificar palabras clave y frases dentro de su entrada.
+# ¿Por qué construir un chatbot para niños con machine learning?
+Un chatbot educativo para niños puede ser una excelente manera de mantener a los niños comprometidos y entretenidos mientras les enseña nuevas habilidades. Muchos de los chatbots más populares para niños, como WeeBot y BabyBot, son simplemente bots de entretenimiento que responden a las entradas de los usuarios. Construir un bot que pueda aprender nueva información y adaptarse a nuevas situaciones le permite ir más allá de entretener a los niños y darles acceso a contenido educativo. Además, tener un bot que pueda aprender con el tiempo hace que sea más fácil mantenerse al día con las últimas tendencias. Echemos un vistazo a algunas razones por las que podría querer construir un bot con capacidades de aprendizaje automático.
