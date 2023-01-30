@@ -85,6 +85,38 @@ La mayoría de los chatbots funcionan con aprendizaje automático, lo que les pe
 # ¿Cómo funcionan?
 * Los chatbots utilizan el procesamiento del lenguaje natural (NLP) para comprender la entrada del usuario. La PNL es un tipo de inteligencia artificial que permite que las computadoras entiendan el lenguaje humano.
 
-Cuando un usuario escribe una pregunta o declaración en un chatbot, el chatbot analizará la entrada del usuario usando NLP. El chatbot luego generará una respuesta basada en su comprensión de la entrada del usuario.
+* Cuando un usuario escribe una pregunta o declaración en un chatbot, el chatbot analizará la entrada del usuario usando NLP. El chatbot luego generará una respuesta basada en su comprensión de la entrada del usuario.
 
-La respuesta del chatbot puede estar preprogramada o codificada, o puede generarse mediante el aprendizaje automático. Si el chatbot utiliza el aprendizaje automático, aprenderá de cada interacción y comprenderá mejor al usuario con el tiempo.
+* La respuesta del chatbot puede estar preprogramada o codificada, o puede generarse mediante el aprendizaje automático. Si el chatbot utiliza el aprendizaje automático, aprenderá de cada interacción y comprenderá mejor al usuario con el tiempo.
+
+El procesamiento de lenguas en Chatbots puede ser clasificado en diferentes tipos:
+* Clasificación de texto
+
+Esta es una forma de clasificar los textos según su contenido. Por ejemplo, podrías clasificar un texto como sobre deportes, política o historia.
+* Etiquetado de palabras en una oración
+
+Esta es una forma de identificar la parte del discurso de cada palabra en una oración. Por ejemplo, podría etiquetar las palabras en la oración "El gato se sentó en el tapete" de la siguiente manera:
+
+el = determinante
+
+gato = sustantivo
+
+sentado = verbo
+
+en = preposición
+
+el = determinante
+
+estera = sustantivo
+* Generando Texto
+
+Es una forma de crear nuevos textos usando inteligencia artificial. Por ejemplo, podría usar un algoritmo de aprendizaje automático para generar una nueva oración basada en la oración "El gato se sentó en el tapete".
+* Traducción de idiomas
+
+Es una forma de traducir texto de un idioma a otro. Por ejemplo, podría usar un algoritmo de aprendizaje automático para traducir una oración del inglés al español.
+* Preguntas y respuestas
+
+Son una forma de entender un texto haciendo preguntas sobre el mismo. Por ejemplo, podrías preguntarle a un chatbot "¿Qué está haciendo el gato en la oración?" y el chatbot respondería "El gato está sentado en el tapete".
+* IA conversacional
+
+Es una forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano. Por ejemplo, podría usar un algoritmo de aprendizaje automático para crear un chatbot que pueda tener una conversación con un humano sobre el clima.
