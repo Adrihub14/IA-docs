@@ -78,3 +78,13 @@ La mayoría de los chatbots funcionan con aprendizaje automático, lo que les pe
 - Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
 - Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
 - Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
+# ¿Cuáles son las desventajas de los chatbots?
+- Una desventaja de los chatbots es que pueden ser difíciles de entender. Los chatbots a menudo usan jerga o jerga, lo que puede dificultar su comprensión para algunos usuarios.
+
+- Otra desventaja de los chatbots es que pueden estar sesgados. Esto se debe a que los chatbots suelen ser programados por humanos, y los humanos son criaturas sesgadas. Los chatbots también pueden heredar los sesgos de los datos en los que están entrenados.
+# ¿Cómo funcionan?
+* Los chatbots utilizan el procesamiento del lenguaje natural (NLP) para comprender la entrada del usuario. La PNL es un tipo de inteligencia artificial que permite que las computadoras entiendan el lenguaje humano.
+
+Cuando un usuario escribe una pregunta o declaración en un chatbot, el chatbot analizará la entrada del usuario usando NLP. El chatbot luego generará una respuesta basada en su comprensión de la entrada del usuario.
+
+La respuesta del chatbot puede estar preprogramada o codificada, o puede generarse mediante el aprendizaje automático. Si el chatbot utiliza el aprendizaje automático, aprenderá de cada interacción y comprenderá mejor al usuario con el tiempo.
