@@ -63,12 +63,12 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 
  ## CHATBOT
  # ¿Qué es Chatbot?
- *Los chatbots son una parte importante de la revolución de la Inteligencia Artificial (IA). Están ayudando a las empresas a ahorrar tiempo y dinero al automatizar el servicio al cliente y las tareas de soporte. Los chatbots también están haciendo posible que las personas interactúen con las computadoras de una manera más natural, usando lenguaje cotidiano en lugar de código.
+ * Los chatbots son una parte importante de la revolución de la Inteligencia Artificial (IA). Están ayudando a las empresas a ahorrar tiempo y dinero al automatizar el servicio al cliente y las tareas de soporte. Los chatbots también están haciendo posible que las personas interactúen con las computadoras de una manera más natural, usando lenguaje cotidiano en lugar de código.
 
-*También es un programa informático que simula una conversación humana. Los chatbots están diseñados para participar automáticamente en conversaciones con humanos, generalmente para brindar servicio o soporte al cliente.
+* También es un programa informático que simula una conversación humana. Los chatbots están diseñados para participar automáticamente en conversaciones con humanos, generalmente para brindar servicio o soporte al cliente.
 # Tecnología detrás del chatbot
 * Los chatbots se pueden programar para comprender las emociones humanas e incluso pueden mantener conversaciones básicas.
 La mayoría de los chatbots funcionan con aprendizaje automático, lo que les permite volverse más inteligentes con el tiempo. A medida que más personas usen un chatbot, aprenderá nuevas palabras y frases, y podrá comprender mejor las necesidades del usuario.
 # Tipos de chatbot
-1.Los chatbots basados en reglas siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del usuario, pero solo pueden responder de forma limitada. Los chatbots basados ​​en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
-2.Los chatbots de aprendizaje automático funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
+1. Los chatbots basados en reglas siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del usuario, pero solo pueden responder de forma limitada. Los chatbots basados ​​en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
+2. Los chatbots de aprendizaje automático funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
