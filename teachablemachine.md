@@ -5,6 +5,7 @@ Para esto se han creado cuatro clases en los que se diferencia el tipo de basura
 - Amarillo (Envases)
 - Verde (Vidrio)
 - Punto limpio (Muebles)
+  
   Para poder entrenar a la IA, se le enseñarán imágenes que caractericen a cada tipo de basura:
 - Color
 - Forma
