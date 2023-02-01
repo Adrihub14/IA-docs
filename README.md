@@ -62,7 +62,7 @@ Rama del campo de la Inteligencia Artificial, que busca como dotar a las máquin
 * Gato
 
  ## CHATBOT
- # ¿Qué es Chatbot?
+ ### ¿Qué es Chatbot?
  * Los chatbots son una parte importante de la revolución de la Inteligencia Artificial (IA). Están ayudando a las empresas a ahorrar tiempo y dinero al automatizar el servicio al cliente y las tareas de soporte. Los chatbots también están haciendo posible que las personas interactúen con las computadoras de una manera más natural, usando lenguaje cotidiano en lugar de código.
 
 * También es un programa informático que simula una conversación humana. Los chatbots están diseñados para participar automáticamente en conversaciones con humanos, generalmente para brindar servicio o soporte al cliente.
@@ -72,17 +72,17 @@ La mayoría de los chatbots funcionan con aprendizaje automático, lo que les pe
 # Tipos de chatbot
 1. Los **chatbots basados en reglas** siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del usuario, pero solo pueden responder de forma limitada. Los chatbots basados ​​en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
 2. Los **chatbots de aprendizaje automático** funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
-# ¿Cuáles son las ventajas de usar un chatbot?
+### ¿Cuáles son las ventajas de usar un chatbot?
 - Mayor eficiencia: los chatbots pueden proporcionar respuestas rápidas a las preguntas y solicitudes de los clientes. Esto ahorra tiempo tanto para los clientes como para los agentes de servicio al cliente.
 - Precisión mejorada: dado que los chatbots funcionan con inteligencia artificial (IA), pueden reconocer con precisión la intención del usuario y brindar la respuesta adecuada a las consultas de los clientes.
 - Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
 - Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
 - Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
-# ¿Cuáles son las desventajas de los chatbots?
+### ¿Cuáles son las desventajas de los chatbots?
 - Una desventaja de los chatbots es que pueden ser difíciles de entender. Los chatbots a menudo usan jerga o jerga, lo que puede dificultar su comprensión para algunos usuarios.
 
 - Otra desventaja de los chatbots es que pueden estar sesgados. Esto se debe a que los chatbots suelen ser programados por humanos, y los humanos son criaturas sesgadas. Los chatbots también pueden heredar los sesgos de los datos en los que están entrenados.
-# ¿Cómo funcionan?
+### ¿Cómo funcionan?
 * Los chatbots utilizan el procesamiento del lenguaje natural (NLP) para comprender la entrada del usuario. La PNL es un tipo de inteligencia artificial que permite que las computadoras entiendan el lenguaje humano.
 
 * Cuando un usuario escribe una pregunta o declaración en un chatbot, el chatbot analizará la entrada del usuario usando NLP. El chatbot luego generará una respuesta basada en su comprensión de la entrada del usuario.
@@ -127,5 +127,5 @@ El reconocimiento de intenciones es un tipo de inteligencia artificial que permi
 - Reconocimiento de entidades
 
 El reconocimiento de entidades es un tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario. Esta información podría ser palabras, frases, números u otros puntos de datos. El reconocimiento de entidades ayuda a los chatbots a comprender lo que quiere el usuario al identificar palabras clave y frases dentro de su entrada.
-# ¿Por qué construir un chatbot para niños con machine learning?
+### ¿Por qué construir un chatbot para niños con machine learning?
 Un chatbot educativo para niños puede ser una excelente manera de mantener a los niños comprometidos y entretenidos mientras les enseña nuevas habilidades. Muchos de los chatbots más populares para niños, como WeeBot y BabyBot, son simplemente bots de entretenimiento que responden a las entradas de los usuarios. Construir un bot que pueda aprender nueva información y adaptarse a nuevas situaciones le permite ir más allá de entretener a los niños y darles acceso a contenido educativo. Además, tener un bot que pueda aprender con el tiempo hace que sea más fácil mantenerse al día con las últimas tendencias. Echemos un vistazo a algunas razones por las que podría querer construir un bot con capacidades de aprendizaje automático.
