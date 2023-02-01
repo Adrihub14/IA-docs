@@ -12,19 +12,20 @@ Para poder entrenar a la IA, se le enseñarán imágenes que caractericen a cada
 - Tipo de material
 - Grandaria
 Una vez entrenado se han puesto imágenes de prueba para ver como actuaba la IA, fallando en algunas ocasiones en seleccionar de la mejor anera que tipo de basura era cada objeto, es por eso que he ido adapatando y añadiendo imágenes hasta que la IA lo haga de forma óptima, hasat llegar a esta conclusión:
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| sdfgr |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|-------	|---	|-------	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+| sdfgr 	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	| hhtgf 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|       	|   	|       	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
